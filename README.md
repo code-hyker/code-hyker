@@ -1,4 +1,4 @@
-                                                            <h3>HEY VISITORS AND FOLKS ! 👋<h3>
+                                                            <h3>HEY VISITORS AND FOLKS !<h3>👋
                                                             
   
   <p align="center">
