@@ -1,5 +1,5 @@
 <h3 align="center">
-  HEY VISITORS ANF FOLKS ! <br> WELCOME TO MY SPACE ON GITHUB <br>:wave:
+  HEY VISITORS AND FOLKS ! <br> WELCOME TO MY SPACE ON GITHUB <br>:wave:
 </p> <br><br>
                                                            
   <p align="center">
