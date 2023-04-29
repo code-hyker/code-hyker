@@ -11,7 +11,3 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code-hyker&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/code-hyker?cardType=octocat&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=nightowl&preferLogin=false">    <img  alt="code-hyker's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/code-hyker?cardType=octocat&theme=nightowl&preferLogin=false" />  </a>
