@@ -3,7 +3,7 @@
 </p> <br><br>
                                                            
   <p align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fsupritha%2Fhow-to-have-an-awesome-github-profile-1969&psig=AOvVaw3iOAxAdwpt3JivMjsmcEE9&ust=1682884000507000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCIjf2tTtz_4CFQAAAAAdAAAAABC3AQ" alt="THE CODER" style="align:center"></p>
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg" alt="THE CODER" style="align:center"></p>
  
  
  ---
